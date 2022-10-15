@@ -6,7 +6,7 @@
 - 📫 How to reach me email, moses.soft.eng@gmail.com, whatsapp +254115227963
 
 
-# Recent Projects Done
+# Recent Projects
 1. [Set up a serverless todo web application](https://github.com/MosesSoftEng/udacity-cloud-developer-c4-serverless-todo)
 2. [Created a simple shell clone using C languange](https://github.com/Ficharagu/simple_shell)
 
