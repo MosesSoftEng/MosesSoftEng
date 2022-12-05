@@ -15,4 +15,7 @@ MosesSoftEng/MosesSoftEng is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# Currently working on a express.js, flutter and AWS application.
+# Currently working on a project using express.js, flutter and AWS Cloud.
+Project details can be found at the repo [
+remotenitor
+](https://github.com/MosesSoftEng/remotenitor)
