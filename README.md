@@ -1,9 +1,12 @@
+# Short Bio
 👋 Greetings, I'm a Software Engineer and a Cloud Developer. I'm excited about combining my passion for solving problems and developing quality software to come up with effective solutions. I'm adaptable and can learn and apply any language and technology as it fits the problem. I have more experience using JavaScript, Java, and AWS technologies.
+
+:point_right: Check my [LinkedIn](https://www.linkedin.com/in/mosessofteng/)
 
 # More About me
 - 👋 Hi, I’m Moses Mwangi @MosesSoftEng
 - 👀 I’m interested in Software Engineering and Cloud Development.
-- 🌱 I’m currently learning AWS, Kotlin and ReactJS.
+- 🌱 I’m currently learning AWS, Serveless Fraemwork, and ReactJS.
 - 💞️ I’m looking to collaborate on any software related projects.
 - 📫 How to reach me email, moses.soft.eng@gmail.com, whatsapp +254115227963
 
