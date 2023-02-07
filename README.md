@@ -1,5 +1,5 @@
 # Short Bio
-👋 Hi! I'm a highly skilled software engineer and cloud developer, driven by a passion for crafting innovative solutions to complex problems. My experience in JavaScript, Java, and AWS technologies has allowed me to design and deliver high-quality software across various domains. I'm a quick learner, and I take pride in my ability to adapt to new languages and technologies as needed to find the best solutions. With a keen eye for detail and a commitment to delivering outstanding results, I'm eager to bring my skills and passion to a new challenge.
+👋 Hi! I'm a software engineer and cloud developer, driven by a passion for crafting innovative solutions to complex problems. My experience in JavaScript, Java, and AWS technologies has allowed me to design and deliver high-quality software across various domains. I'm a quick learner, and I take pride in my ability to adapt to new languages and technologies as needed to find the best solutions. With a keen eye for detail and a commitment to delivering outstanding results, I'm eager to bring my skills and passion to a new challenge.
 
 :point_right: Check my [LinkedIn](https://www.linkedin.com/in/mosessofteng/)
 
