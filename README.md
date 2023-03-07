@@ -3,6 +3,15 @@
 
 :point_right: Check my [LinkedIn](https://www.linkedin.com/in/mosessofteng/)
 
+- []
+- [ x ]
+-[]
+-[x]
+
+[]
+[x]
+[ x ]
+
 # More About me
 - 👋 Hi, I’m Moses Mwangi @MosesSoftEng
 - 👀 I’m interested in Software Engineering and Cloud Development.
